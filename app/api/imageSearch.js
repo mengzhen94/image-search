@@ -8,7 +8,7 @@ module.exports = function(app, db, client){
 		client.search(name, {
 			page : offset
 		}).then(function(images){
-			console.log(images)
+			//console.log(images)
 			var collect = db.collection('search_images')
 			collect.insert([{term: name, when: date}],function(err, data){
 				if(err) throw err
