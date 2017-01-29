@@ -6,7 +6,7 @@
 
 ## Example Usage:
 - https://image-search-mengzhen.herokuapp.com/api/imgSearch/google?offset=2
-### output:
+### output: ###
 ```
 [
 {
@@ -132,7 +132,7 @@
 ]
 ```
 - https://image-search-mengzhen.herokuapp.com/api/latest/imagesearch/
-### output:
+### output: ###
 ```
 [
 {
