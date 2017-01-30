@@ -5,8 +5,8 @@
 - I can get a list of the most recently submitted search strings.
 
 ## Example Usage:
-- https://image-search-mengzhen.herokuapp.com/api/imgSearch/google?offset=2
-### output: ###
+* https://image-search-mengzhen.herokuapp.com/api/imgSearch/google?offset=2
+
 ```
 [
 {
@@ -131,8 +131,8 @@
 }
 ]
 ```
-- https://image-search-mengzhen.herokuapp.com/api/latest/imagesearch/
-### output: ###
+* https://image-search-mengzhen.herokuapp.com/api/latest/imagesearch/
+
 ```
 [
 {
